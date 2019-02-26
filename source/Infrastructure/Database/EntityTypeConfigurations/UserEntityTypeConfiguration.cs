@@ -12,6 +12,10 @@ namespace Solution.Infrastructure.Database
 
             builder.HasKey(x => x.UserId);
 
+            builder.Property(p => p.UserId)
+                .HasAnnotation("MySql:ValueGeneratedOnAdd", true)
+                .ValueGeneratedOnAdd();
+
             builder.HasIndex(x => x.Email).IsUnique();
             builder.HasIndex(x => x.Login).IsUnique();
 

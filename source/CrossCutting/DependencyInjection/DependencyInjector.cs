@@ -16,7 +16,7 @@ namespace Solution.CrossCutting.DependencyInjection
         private static IServiceCollection Services { get; set; }
 
         public static void AddDbContext<T>(string connectionString) where T : DbContext
-        {
+       {
             Services.AddDbContextPool<T>(options => options.UseMySql(connectionString, mySqlOptions =>
             {
                 mySqlOptions.ServerVersion(new Version(5, 7, 17), ServerType.MariaDb); // replace with your Server Version and Type

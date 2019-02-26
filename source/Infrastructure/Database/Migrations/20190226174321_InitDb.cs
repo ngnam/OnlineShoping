@@ -20,7 +20,7 @@ namespace Solution.Infrastructure.Database.Migrations
                     Status = table.Column<int>(nullable: false),
                     Surname = table.Column<string>(maxLength: 200, nullable: false),
                     UserId = table.Column<long>(nullable: false)
-                        .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn)
+                        .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn)
                 },
                 constraints: table =>
                 {
@@ -36,7 +36,7 @@ namespace Solution.Infrastructure.Database.Migrations
                     LogType = table.Column<int>(nullable: false),
                     UserId = table.Column<long>(nullable: false),
                     UserLogId = table.Column<long>(nullable: false)
-                        .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn)
+                        .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn)
                 },
                 constraints: table =>
                 {

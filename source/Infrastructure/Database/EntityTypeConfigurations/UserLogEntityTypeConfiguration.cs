@@ -12,6 +12,10 @@ namespace Solution.Infrastructure.Database
 
             builder.HasKey(x => x.UserLogId);
 
+            builder.Property(p => p.UserLogId)
+                .HasAnnotation("MySql:ValueGeneratedOnAdd", true)
+                .ValueGeneratedOnAdd();
+
             builder.Property(x => x.Content).IsRequired(false).HasMaxLength(8000);
             builder.Property(x => x.DateTime).IsRequired();
             builder.Property(x => x.LogType).IsRequired();
