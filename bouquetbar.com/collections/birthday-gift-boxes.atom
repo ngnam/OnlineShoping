@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bouquetbar.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bouquetbar.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bouquetbar.com/collections/birthday-gift-boxes.atom"/>
+  <title>Bouquet Bar</title>
+  <updated>2018-12-28T11:54:16-08:00</updated>
+  <author>
+    <name>Bouquet Bar</name>
+  </author>
+  <entry>
+    <id>https://bouquetbar.com/products/256644972571</id>
+    <published>2018-12-28T11:54:16-08:00</published>
+    <updated>2018-12-28T11:54:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://bouquetbar.com/products/my-girl"/>
+    <title>My Girl</title>
+    <s:type>Box</s:type>
+    <s:vendor>Bouquet Bar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1504/0434/products/2170913-Bouquet-Bar-4127_a7e9bf3a-3600-442b-93a2-342e232d9725.jpg?v=1516202888" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bouquet Bar<br />
+        <strong>Type: </strong>Box<br />
+        <strong>Price: </strong>
+            97.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"Give this gift box to your favorite sophisticate, or reward your own good taste by keeping it to yourself. Perk up any space with the understated beauty of our succulent plant. Enjoy a simple yet delicious snack of fresh almonds, or indulge two tastebuds at once with our sea salt-sprinkled, buttery caramels. "}' data-sheets-userformat='{"2":513,"3":[null,0],"12":0}'>Give them everything they need to melt their cares away. Light up a room with day brightening orange spray roses and the refreshing aroma of our Citrus Blossom candle, and reach new heights of relaxation with our herbal tea. Skin-softening bath bombs are the perfect end-of-day pick-me-up with their floral scent. Satisfy your sweet tooth with our soft, juicy gummy hearts and decadent chocolate-covered gummies. The Box measures approximately 12" x 8" x 3".</span></p>
+<ul>
+<li>Citrus Blossom Candle </li>
+<li>Organic Teas</li>
+<li>Sugar Coated Sour Gummy Hearts</li>
+<li>Milk Chocolate Dipped Gummy Bears</li>
+<li>Queen Bath Bomb</li>
+<li>Orange Spray Roses</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular</s:tag>
+    <s:variant>
+      <id>https://bouquetbar.com/products/256644972571</id>
+      <title>Default Title</title>
+      <s:price currency="USD">97.99</s:price>
+      <s:sku>BBMEDBB01</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bouquetbar.com/products/258727477275</id>
+    <published>2018-05-15T12:57:44-07:00</published>
+    <updated>2018-05-15T12:57:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://bouquetbar.com/products/birthday-for-him"/>
+    <title>Birthday For Him</title>
+    <s:type>Box</s:type>
+    <s:vendor>Bouquet Bar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1504/0434/products/2170913-Bouquet-Bar-4085.jpg?v=1516203606" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bouquet Bar<br />
+        <strong>Type: </strong>Box<br />
+        <strong>Price: </strong>
+            55.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"Give your favorite sugarholic the perfect thank-you gift. This gift box contains our creamy-meets-crunchy mint malted milk balls, chocolate-covered gummy bears and dreamy caramels enrobed in chocolate and sprinkled with sea salt."}' data-sheets-userformat='{"2":513,"3":[null,0],"12":0}'>Give your favorite sugarholic the perfect gift. This gift box contains our creamy-meets-crunchy mint malted milk balls, chocolate-covered gummy bears and dreamy caramels enrobed in chocolate and sprinkled with sea salt. The Box measures approximately 12" x 4" x 3".</span></p>
+<ul>
+<li>Mint Cookie Malted Milk Balls</li>
+<li>Milk Chocolate Dipped Gummy Bears</li>
+<li>Dark Chocolate Covered Sea Salt Caramels</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular</s:tag>
+    <s:variant>
+      <id>https://bouquetbar.com/products/258727477275</id>
+      <title>Default Title</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>BBSTY02</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bouquetbar.com/products/256559317019</id>
+    <published>2018-05-14T12:42:13-07:00</published>
+    <updated>2018-05-14T12:42:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://bouquetbar.com/products/celebrations"/>
+    <title>Celebrations</title>
+    <s:type>Box</s:type>
+    <s:vendor>Bouquet Bar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1504/0434/products/2170913-Bouquet-Bar-4088.jpg?v=1516202871" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bouquet Bar<br />
+        <strong>Type: </strong>Box<br />
+        <strong>Price: </strong>
+            61.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"Give this gift box to your favorite sophisticate, or reward your own good taste by keeping it to yourself. Perk up any space with the understated beauty of our succulent plant. Enjoy a simple yet delicious snack of fresh almonds, or indulge two tastebuds at once with our sea salt-sprinkled, buttery caramels. "}' data-sheets-userformat='{"2":513,"3":[null,0],"12":0}'>Give this gift box to your favorite sophisticate, or reward your own good taste by keeping it to yourself. Perk up any space with the understated beauty of our succulent plant. Enjoy a simple yet delicious snack of fresh almonds, or indulge two tastebuds at once with our sea salt-sprinkled, buttery caramels. The Box measures approximately 12" x 4" x 3".</span></p>
+<ul>
+<li>Dark Chocolate Covered Sea Salt Caramels</li>
+<li>Suprime Roasted &amp; Salted Almonds</li>
+<li>Succulent Plant</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular</s:tag>
+    <s:variant>
+      <id>https://bouquetbar.com/products/256559317019</id>
+      <title>Default Title</title>
+      <s:price currency="USD">61.99</s:price>
+      <s:sku>BBSBB03</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bouquetbar.com/products/9761204815</id>
+    <published>2018-05-14T12:42:02-07:00</published>
+    <updated>2018-05-14T12:42:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://bouquetbar.com/products/hes-a-legend"/>
+    <title>He&apos;s a Legend</title>
+    <s:type>Box</s:type>
+    <s:vendor>BouquetBar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1504/0434/products/bouquetbar-legends_bar-gift_box.jpg?v=1516203267" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BouquetBar<br />
+        <strong>Type: </strong>Box<br />
+        <strong>Price: </strong>
+            61.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span style="font-weight: 400;">Let him know how much he means to you with our Legends Box, the perfect gift for your favorite guy. He may work and play hard, but he also has good taste. We've selected flavorful roasted almonds and rich sea salt caramels for the ultimate in snacking. Improve the view in his office or man cave with a charming succulent plant that will feng shui his surroundings and let him know you care. </span>The Legends Bar measures approximately 12" x 4" x 3". </p>
+<ul>
+<li><span>Dark Chocolate Sea Salt Caramels</span></li>
+<li><span>Supreme Roasted and Salted Almonds</span></li>
+<li><span>Succulent Plant</span></li>
+</ul>
+<meta charset="utf-8"><br>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular</s:tag>
+    <s:variant>
+      <id>https://bouquetbar.com/products/9761204815</id>
+      <title>Default Title</title>
+      <s:price currency="USD">61.99</s:price>
+      <s:sku>BBPLB001</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bouquetbar.com/products/815298412588</id>
+    <published>2018-05-14T12:41:56-07:00</published>
+    <updated>2018-05-14T12:41:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://bouquetbar.com/products/mommy-dearest-1"/>
+    <title>Birthday For Mom</title>
+    <s:type>Box</s:type>
+    <s:vendor>Bouquet Bar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1504/0434/products/Cocktail-New-1.gif?v=1524173285" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bouquet Bar<br />
+        <strong>Type: </strong>Box<br />
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><meta charset="utf-8">
+<p><span>You can't miss with this trio of indulgent gifts for moms. Treat her to the subtle floral aroma of our skin-softening Queen Bath Bomb and the bright citrus flavor of our Orange Burst Gummy Bears. Gift her with a succulent plant to add a natural element and visual interest to any room. She'll feel truly appreciated! </span>The Box measures approximately 12" x 4" x 3".</p>
+<ul>
+<li>Orange Burst Gummy Bears</li>
+<li>Queen Bath Bomb</li>
+<li>Succulent Plant</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular</s:tag>
+    <s:variant>
+      <id>https://bouquetbar.com/products/815298412588</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>BBP082</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bouquetbar.com/products/10606448911</id>
+    <published>2018-05-14T12:41:09-07:00</published>
+    <updated>2018-05-14T12:41:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://bouquetbar.com/products/mamma-bear"/>
+    <title>Mamma Bear</title>
+    <s:type>Box</s:type>
+    <s:vendor>Bouquet Bar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1504/0434/products/MY_GIRL_BOX.jpg?v=1517701262" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bouquet Bar<br />
+        <strong>Type: </strong>Box<br />
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The richness of European chocolate meets the crunch of popcorn for a match made in heaven. Orange gummy bears blend the tantalizing taste of citrus with a satisfying yet soft chewiness. Vibrant orange makes another appearance in a bouquet of our signature orange spray roses. From the mouthwatering flavor of our Chocolate Crunch Popcorn to the beauty and symbolism of fiery miniature roses. This box measures approximately 12" x 4" x 3".</p>
+<ul>
+<li>Orange Burst Gummy Bears</li>
+<li>Orange Spray Roses</li>
+<li>Crispy Sea Salt Dark Chocolate Caramel Corn</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular</s:tag>
+    <s:variant>
+      <id>https://bouquetbar.com/products/10606448911</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>BBBB001</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bouquetbar.com/products/256817528859</id>
+    <published>2017-07-25T11:45:57-07:00</published>
+    <updated>2017-07-25T11:45:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://bouquetbar.com/products/keepcalmitsyourbday"/>
+    <title>Keep Calm It&apos;s Your Bday</title>
+    <s:type>Box</s:type>
+    <s:vendor>Bouquet Bar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1504/0434/products/VDAY_BOX_2019.jpg?v=1548501120" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bouquet Bar<br />
+        <strong>Type: </strong>Box<br />
+        <strong>Price: </strong>
+            169.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Let your lucky recipient bathe in luxury with our lightly floral-scented, skin-softening bath bomb. The bath isn't the only place flowers make an appearance. Our orange spray roses create a fragrant, color-filled addition to the home or office. Delightfully chewy, fruity gummies enrobed in chocolate are the finishing touch in this birthday box.&quot;}" data-sheets-userformat='{"2":513,"3":[null,0],"12":0}'>Let your lucky recipient bathe in luxury with our lightly floral-scented, skin-softening bath bomb. The bath isn't the only place flowers make an appearance. Our orange roses create a fragrant, color-filled addition to the home or office. Delightfully chewy, fruity gummies enrobed in chocolate are the finishing touch in this birthday box. The Box measures approximately 24" x 17" x 7".</span></p>
+<ul>
+<li>The Mimosa </li>
+<li>Queen Bath Bomb</li>
+<li>Milk Chocolate Dipped Gummy Bears</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular</s:tag>
+    <s:variant>
+      <id>https://bouquetbar.com/products/256817528859</id>
+      <title>Default Title</title>
+      <s:price currency="USD">169.99</s:price>
+      <s:sku>BBLBB01</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

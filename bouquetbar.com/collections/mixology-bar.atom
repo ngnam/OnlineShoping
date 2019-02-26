@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bouquetbar.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bouquetbar.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bouquetbar.com/collections/mixology-bar.atom"/>
+  <title>Bouquet Bar</title>
+  <updated>2017-10-23T08:37:09-07:00</updated>
+  <author>
+    <name>Bouquet Bar</name>
+  </author>
+  <entry>
+    <id>https://bouquetbar.com/products/112535339035</id>
+    <published>2017-10-23T08:37:09-07:00</published>
+    <updated>2017-10-23T08:37:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://bouquetbar.com/products/the-shot"/>
+    <title>The Shot</title>
+    <s:type>Box</s:type>
+    <s:vendor>BouquetBar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1504/0434/products/2170913-Bouquet-Bar-4013.jpg?v=1516203664" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BouquetBar<br />
+        <strong>Type: </strong>Box<br />
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Our most affordable designer gift box holds two individual presents, hand selected by you from our exclusive assortment of delicious treats, restorative indulgences and exquisite floral arrangements. </span>The Shot Box measures approximately 8" x 4" x 3".</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>custom_box</s:tag>
+    <s:variant>
+      <id>https://bouquetbar.com/products/112535339035</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>BBMIN01</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bouquetbar.com/products/9490304196</id>
+    <published>2016-11-08T14:02:00-08:00</published>
+    <updated>2016-11-08T14:02:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://bouquetbar.com/products/large-box"/>
+    <title>The Champagne</title>
+    <s:type>Box</s:type>
+    <s:vendor>BouquetBar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1504/0434/products/bouquetbar-the_champagne-gift_box.jpg?v=1516203638" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BouquetBar<br />
+        <strong>Type: </strong>Box<br />
+        <strong>Price: </strong>
+            169.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Generous and elegant. Our largest luxury gift box is guaranteed to delight. Featuring a full-size, breathtaking bouquet and two individual presents personally selected by you from our exclusive assortment of gourmet treats and restorative indulgences. </span>The Champagne Box measures approximately 24" x 17" x 7".</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>custom_box</s:tag>
+    <s:variant>
+      <id>https://bouquetbar.com/products/9490304196</id>
+      <title>Default Title</title>
+      <s:price currency="USD">169.99</s:price>
+      <s:sku>BBLAR01</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bouquetbar.com/products/9490302340</id>
+    <published>2016-11-08T14:02:00-08:00</published>
+    <updated>2016-11-08T14:02:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://bouquetbar.com/products/medium-box"/>
+    <title>The Martini</title>
+    <s:type>Box</s:type>
+    <s:vendor>BouquetBar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1504/0434/products/2170913-Bouquet-Bar-4127.jpg?v=1516203648" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BouquetBar<br />
+        <strong>Type: </strong>Box<br />
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Bold and elegant. Our expertly styled larger gift box holds six individual presents, personally selected by you from our exclusive assortment of gourmet treats, restorative indulgences and exquisite floral arrangements. </span>The Martini Box measures approximately 12" x 8" x 3".</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>custom_box</s:tag>
+    <s:variant>
+      <id>https://bouquetbar.com/products/9490302340</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>BBMED01</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bouquetbar.com/products/9490298308</id>
+    <published>2016-11-08T14:00:00-08:00</published>
+    <updated>2016-11-08T14:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://bouquetbar.com/products/small-box"/>
+    <title>The Cocktail</title>
+    <s:type>Box</s:type>
+    <s:vendor>BouquetBar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1504/0434/products/2170913-Bouquet-Bar-4062.jpg?v=1526326440" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BouquetBar<br />
+        <strong>Type: </strong>Box<br />
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Simple and elegant. This designer gift box holds three individual presents, hand selected by you from our exclusive assortment of delicious treats, restorative indulgences and exquisite floral arrangements. </span>The Cocktail Box measures approximately 12" x 4" x 3".</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>custom_box</s:tag>
+    <s:variant>
+      <id>https://bouquetbar.com/products/9490298308</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>BBSMA01</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bouquetbar.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bouquetbar.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bouquetbar.com/collections/get-well-gift-boxes.atom"/>
+  <title>Bouquet Bar</title>
+  <updated>2018-05-14T12:42:08-07:00</updated>
+  <author>
+    <name>Bouquet Bar</name>
+  </author>
+  <entry>
+    <id>https://bouquetbar.com/products/10606393615</id>
+    <published>2018-05-14T12:42:08-07:00</published>
+    <updated>2018-05-14T12:42:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://bouquetbar.com/products/hope"/>
+    <title>Hope</title>
+    <s:type>Box</s:type>
+    <s:vendor>Bouquet Bar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1504/0434/products/bouquet_bar-fit_bar-gift_box.jpg?v=1516203037" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bouquet Bar<br />
+        <strong>Type: </strong>Box<br />
+        <strong>Price: </strong>
+            61.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Indulge your senses or gift someone with this gift box. This gift collection comes with everything you need to escape the everyday. Upgrade your breakfast or mid-day break with the perfect beverage. Our organic tea is a soothing alternative to coffee and helps you maintain healthy habits throughout the day. Our honey pearls add a touch of sweetness the natural way. These delicious morsels of powdered honey make it easy to sweeten your tea anywhere. Brighten your home or office with a succulent plant. These hardy plants give any room an instant pick-me-up with their geometric look and low-maintenance appeal. The Box measures approximately 12" x 4" x 3".  </p>
+<meta charset="utf-8">
+<ul>
+<li><span>Honey Pearls</span></li>
+<li>Organic Tea</li>
+<li>Succulent Plant</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular</s:tag>
+    <s:variant>
+      <id>https://bouquetbar.com/products/10606393615</id>
+      <title>Default Title</title>
+      <s:price currency="USD">61.99</s:price>
+      <s:sku>BBPFB001</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bouquetbar.com/products/240658087963</id>
+    <published>2018-05-11T14:29:10-07:00</published>
+    <updated>2018-05-11T14:29:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://bouquetbar.com/products/get-well"/>
+    <title>Get Well</title>
+    <s:type>Box</s:type>
+    <s:vendor>Bouquet Bar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1504/0434/products/2170913-Bouquet-Bar-4037.jpg?v=1516203577" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bouquet Bar<br />
+        <strong>Type: </strong>Box<br />
+        <strong>Price: </strong>
+            51.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Succulent plants are said to have air-purifying, health-enhancing properties -- and they're a beautiful addition to any decor. Give them him gift of indulgence with our buttery caramels dipped in European chocolate and sprinkled with premium sea salt. The Box</span> measures approximately 8" x 4" x 3".</p>
+<ul>
+<li>Dark Chocolate Covered Sea Salt Caramels</li>
+<li>Succulent Plant </li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular</s:tag>
+    <s:variant>
+      <id>https://bouquetbar.com/products/240658087963</id>
+      <title>Default Title</title>
+      <s:price currency="USD">51.99</s:price>
+      <s:sku>BBMINTY01</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bouquetbar.com/products/258663448603</id>
+    <published>2018-04-22T19:56:28-07:00</published>
+    <updated>2018-04-22T19:56:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://bouquetbar.com/products/you-are-amazing"/>
+    <title>You are Amazing!</title>
+    <s:type>Box</s:type>
+    <s:vendor>Bouquet Bar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1504/0434/products/2170913-Bouquet-Bar-4219.jpg?v=1516203350" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bouquet Bar<br />
+        <strong>Type: </strong>Box<br />
+        <strong>Price: </strong>
+            169.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"Pamper her in style with our sweetly romantic gift box. Big, beautiful pink roses and the sweet scent of our Citrus Blossom candle set the stage for a perfect day at home. Our softly chewy gummies enrobed in lush European chocolate are the ideal accent to this lovely gift for your sweetie."}' data-sheets-userformat='{"2":513,"3":[null,0],"12":0}'>Pamper them in style with our sweet gift box. Big, beautiful pink roses and the sweet scent of our Citrus Blossom candle set the stage for a perfect day at home. Our softly chewy gummies enrobed in lush European chocolate are the ideal accent to this lovely gift for your sweetie. The Box measures approximately 24" x 17" x 7".<br></span></p>
+<ul>
+<li>Tickled Pink</li>
+<li>Citrus Blossom Candle </li>
+<li>Milk Chocolate Dipped Gummy Bears</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular</s:tag>
+    <s:variant>
+      <id>https://bouquetbar.com/products/258663448603</id>
+      <title>Default Title</title>
+      <s:price currency="USD">169.99</s:price>
+      <s:sku>BBLLB02</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bouquetbar.com/products/258741796891</id>
+    <published>2017-07-25T11:45:57-07:00</published>
+    <updated>2017-07-25T11:45:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://bouquetbar.com/products/thinking-of-you"/>
+    <title>Thinking of You</title>
+    <s:type>Box</s:type>
+    <s:vendor>Bouquet Bar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1504/0434/products/2170913-Bouquet-Bar-4155.jpg?v=1516203633" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bouquet Bar<br />
+        <strong>Type: </strong>Box<br />
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Give thanks for all they do with our relaxing spa gift set. Set the stage for relaxation with our Citrus Blossom candle and our miniature white roses. They'll emerge with soft, glowing skin after bathing with our bath bomb and sugar scrub. A cup of our luxuriously calming herbal tea is the perfect tonic to top it off.&quot;}" data-sheets-userformat='{"2":513,"3":[null,0],"12":0}'>Let them know you're thinking about them with our Citrus Blossom candle and our miniature white roses. They'll fall in love with our bath bomb and sugar scrub. A cup of our luxuriously calming herbal tea is the perfect tonic to top it off. The Box measures approximately 12" x 8" x 3".</span></p>
+<ul>
+<li>Citrus Blossom Candle </li>
+<li>Honey Pearls</li>
+<li>Organic Teas</li>
+<li>White Spray Roses</li>
+<li>Queen Bath Bomb</li>
+<li>Foaming Sugar Scrub</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular</s:tag>
+    <s:variant>
+      <id>https://bouquetbar.com/products/258741796891</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku>BBMEDTY01</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bouquetbar.com/products/10606426511</id>
+    <published>2017-03-22T14:23:00-07:00</published>
+    <updated>2017-03-22T14:23:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://bouquetbar.com/products/feel-better-soon"/>
+    <title>Feel Better Soon</title>
+    <s:type>Box</s:type>
+    <s:vendor>Bouquet Bar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1504/0434/products/bouquet_bar-spa_bar-gift_box.jpg?v=1516203466" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bouquet Bar<br />
+        <strong>Type: </strong>Box<br />
+        <strong>Price: </strong>
+            97.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Treat yourself or a lucky recipient to a relaxing experience. We've thought of everything, from accessories for creating a just-right ambiance to sweet and savory bites for your pleasure. A succulent plant lends natural beauty to your surroundings while a lavender candle provides a radiant glow and the ideal aroma for relaxing and recharging. Give your taste buds equal time with a deliciously healthy snack of high-quality cashews, delectable chocolate-lavender discs and soul-soothing organic tea. This Box<span> measures approximately 12" x 8" x 3".</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://bouquetbar.com/products/10606426511</id>
+      <title>Default Title</title>
+      <s:price currency="USD">97.99</s:price>
+      <s:sku>BBPSP001</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

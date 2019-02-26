@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+bouquetbar.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+bouquetbar.com	TRUE	/	FALSE	1999999999	_shopify_y	379dae03-1c37-4e0f-8ce7-3127380086bf
+.bing.com	TRUE	/	FALSE	1999999999	MUID	18CE3183D0E663BA19193C8DD4E660DD
+bat.bing.com	TRUE	/	FALSE	1999999999	MR	0
+bat.bing.com	TRUE	/	FALSE	1999999999	MUIDB	14A3398BD8B2652A2A4F3485D9CD6470
+.beeketing.com	TRUE	/	FALSE	1999999999	__cfduid	d85fc649b65768c53650a62fdb188dff51551102027
+

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bouquetbar.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bouquetbar.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bouquetbar.com/collections/sympathy-gift-boxes.atom"/>
+  <title>Bouquet Bar</title>
+  <updated>2018-11-08T17:05:28-08:00</updated>
+  <author>
+    <name>Bouquet Bar</name>
+  </author>
+  <entry>
+    <id>https://bouquetbar.com/products/1420504334380</id>
+    <published>2018-11-08T17:05:28-08:00</published>
+    <updated>2018-11-08T17:05:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://bouquetbar.com/products/christmas-love"/>
+    <title>Christmas Love</title>
+    <s:type>Box</s:type>
+    <s:vendor>Bouquet Bar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1504/0434/products/BouquetBar_1015_27__R-2_copy.jpg?v=1541846724" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bouquet Bar<br />
+        <strong>Type: </strong>Box<br />
+        <strong>Price: </strong>
+            162.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p>Usher in the holidays with the delicious aroma of cinnamon. Our cinnamon candle fills the air with the inviting scent of cookies and pies baked with love. Holiday gummy bears are sure to bring smiles, whether as stocking stuffers, gifts or in your candy dish. And give the gift of Christmas cheer with our red holiday bouquet -- or add a pop of festive color to entryways or tables.</p>
+<p><span data-sheets-value='{"1":2,"2":"Give the much-needed gift of serenity during a trying time. Herbal organic tea soothes the body and soul. The soft light of our Citrus Blossom candle helps calm nerves and prepare for sleep. Our white roses send a message of honor, sympathy and respect."}' data-sheets-userformat='{"2":513,"3":[null,0],"12":0}'> The Box measures approximately 24" x 17" x 7".<br></span></p>
+<ul>
+<li>Season's Greetings Bouquet</li>
+<li>Cinnamon Spice Candle</li>
+<li>Holiday Gummy Bears</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular</s:tag>
+    <s:variant>
+      <id>https://bouquetbar.com/products/1420504334380</id>
+      <title>Default Title</title>
+      <s:price currency="USD">162.99</s:price>
+      <s:sku>BBP127</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bouquetbar.com/products/257455095835</id>
+    <published>2018-05-14T12:42:19-07:00</published>
+    <updated>2018-05-14T12:42:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://bouquetbar.com/products/sympathy"/>
+    <title>Sympathy</title>
+    <s:type>Box</s:type>
+    <s:vendor>Bouquet Bar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1504/0434/products/2170913-Bouquet-Bar-4069.jpg?v=1516203521" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bouquet Bar<br />
+        <strong>Type: </strong>Box<br />
+        <strong>Price: </strong>
+            62.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pay tribute after a recent loss with beautiful white spray roses. Little things mean a lot during trying times, and our lavender chocolates offer creature comforts when they're needed most. Our lavender candle creates a relaxing atmosphere and helps ease the mind and promote sleep.&quot;}" data-sheets-userformat='{"2":513,"3":[null,0],"12":0}'>Pay tribute after a recent loss with beautiful white spray roses. Little things mean a lot during trying times, and our lavender chocolates offer creature comforts when they're needed most. Our lavender candle creates a relaxing atmosphere and helps ease the mind and promote sleep. The Box measures approximately 12" x 4" x 3".</span></p>
+<ul>
+<li>White Spray Roses</li>
+<li>Lavender Fields Candle </li>
+<li>Lavender Dark Chocolate Drops</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular</s:tag>
+    <s:variant>
+      <id>https://bouquetbar.com/products/257455095835</id>
+      <title>Default Title</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>BBSMSB01</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bouquetbar.com/products/257551302683</id>
+    <published>2017-10-24T16:32:53-07:00</published>
+    <updated>2017-10-24T16:32:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://bouquetbar.com/products/forever-in-our-hearts"/>
+    <title>Forever in Our Hearts</title>
+    <s:type>Box</s:type>
+    <s:vendor>Bouquet Bar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1504/0434/products/2170913-Bouquet-Bar-4216.jpg?v=1516203568" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bouquet Bar<br />
+        <strong>Type: </strong>Box<br />
+        <strong>Price: </strong>
+            179.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"Give the much-needed gift of serenity during a trying time. Herbal organic tea soothes the body and soul. The soft light of our Citrus Blossom candle helps calm nerves and prepare for sleep. Our white roses send a message of honor, sympathy and respect."}' data-sheets-userformat='{"2":513,"3":[null,0],"12":0}'>Give the much-needed gift of serenity during a trying time. Herbal organic tea soothes the body and soul. The soft light of our Lavender fields candle helps calm nerves and prepare for sleep. Our white roses send a message of honor, sympathy and respect. The Box measures approximately 24" x 17" x 7".<br></span></p>
+<ul>
+<li>Glorious White Bouquet</li>
+<li>Organic Teas</li>
+<li>Lavender Fields Candle </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular</s:tag>
+    <s:variant>
+      <id>https://bouquetbar.com/products/257551302683</id>
+      <title>Default Title</title>
+      <s:price currency="USD">179.99</s:price>
+      <s:sku>BBLSB01</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bouquetbar.com/products/240678371355</id>
+    <published>2017-07-25T11:45:57-07:00</published>
+    <updated>2017-07-25T11:45:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://bouquetbar.com/products/eternity"/>
+    <title>Eternity</title>
+    <s:type>Box</s:type>
+    <s:vendor>Bouquet Bar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1504/0434/products/2170913-Bouquet-Bar-4016.jpg?v=1516203510" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bouquet Bar<br />
+        <strong>Type: </strong>Box<br />
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Let them know how much you care with this mini sympathy gift box. White spray roses convey respect in addition to honoring the life of a loved one. Provide a little comfort during this difficult time with a gift of our soothing, delicious organic tea made from high-quality herbs. The Box measures approximately 8" x 4" x 3".</span></p>
+<ul>
+<li>White Spray Roses</li>
+<li>Organic Teas</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular</s:tag>
+    <s:variant>
+      <id>https://bouquetbar.com/products/240678371355</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku>BBMINSB01</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>
