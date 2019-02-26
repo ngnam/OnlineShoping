@@ -31,14 +31,6 @@ Solution to apply and share new knowledge and technologies and to serve as archi
 * JWT (Json Web Token)
 * Code Analysis (Ruleset for C# and TSLint for Typescript)
 
-## Build
-
-[![Build Status](https://ci.appveyor.com/api/projects/status/17lg6pt9kf55cr1y?svg=true)](https://ci.appveyor.com/project/rafaelfgx/dotnetarchitecture)
-
-## Code Analysis
-
-[![Codacy](https://api.codacy.com/project/badge/Grade/6eef5f26173c4b80824a2eeb0b4f9ab9)](https://www.codacy.com/app/rafaelfgx/DotNetArchitecture?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rafaelfgx/DotNetArchitecture&amp;utm_campaign=Badge_Grade)
-
 ## Layers
 
 ![Screenshot](screenshots/layers.png)
