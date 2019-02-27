@@ -16,7 +16,7 @@ export class AuthenticationService {
             .post(`AuthenticationService/Authenticate`, authentication, { responseType: "text" })
             .subscribe((token: string) => {
                 this.tokenService.set(token);
-                this.router.navigate(["/main/home"]);
+                this.router.navigate(["/admin"]);
             });
     }
 

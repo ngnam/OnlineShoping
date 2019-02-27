@@ -1,0 +1,33 @@
+.site-header__logo {
+    max-width: 440px;
+}
+
+@media (max-width: 900px) {
+    #free-shipping-icon {
+        left: 50%;
+        height: 30px;
+    }
+}
+
+@media (min-width: 901px) and (max-width: 1167px) {
+    #free-shipping-icon {
+        left: 75%;
+        height: 36px;
+    }
+}
+
+@media (min-width: 1168px) and (max-width: 1280px) {
+    #free-shipping-icon {
+        left: 70%;
+    }
+}
+
+@media (min-width: 1281px) {
+    #free-shipping-icon {
+        left: 80%;
+    }
+}
+
+.nav-bar.opened {
+    height: 503px;
+}

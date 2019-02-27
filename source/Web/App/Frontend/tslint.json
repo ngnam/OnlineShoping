@@ -6,17 +6,17 @@
         "banana-in-box": true,
         "component-class-suffix": [ true, "Component" ],
         "component-selector": [ true, "element", "app", "kebab-case" ],
-        "contextual-life-cycle": true,
-        "decorator-not-allowed": true,
+        "contextual-life-cycle": false,
+        "decorator-not-allowed": false,
         "directive-class-suffix": [ true, "Directive" ],
-        "directive-selector": [ true, "attribute", "app", "camelCase" ],
+        "directive-selector": [ false, "attribute", "app", "camelCase" ],
         "import-destructuring-spacing": true,
         "indent": [ true, "spaces", 4 ],
         "max-line-length": false,
         "member-access": [ true, "no-public" ],
         "no-attribute-parameter-decorator": true,
         "no-console": false,
-        "no-empty": true,
+        "no-empty": [ true, "allow-empty-catch", "allow-empty-functions" ],
         "no-forward-ref": true,
         "no-input-rename": true,
         "no-output-named-after-standard-event": true,
@@ -35,6 +35,18 @@
         "use-output-property-decorator": true,
         "use-pipe-decorator": true,
         "use-pipe-transform-interface": true,
-        "use-view-encapsulation": true
+        "use-view-encapsulation": true,
+        "ordered-imports": false,
+        "ban-types": false,
+        "no-string-literal": false,
+        "array-type": false,
+        "arrow-parens": false,
+        "member-ordering": false,
+        "quotemark": [
+            false,
+            "double",
+            "single"
+        ],
+        "object-literal-sort-keys": false
     }
 }

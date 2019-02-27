@@ -4,6 +4,7 @@ import { RouterModule } from "@angular/router";
 import { AppComponent } from "./app.component";
 import { routes } from "./app.routes";
 import { SharedModule } from "./shared/shared.module";
+import { LayoutModule } from "./shared/layout/layout.module";
 
 @NgModule({
     bootstrap: [AppComponent],
@@ -11,7 +12,8 @@ import { SharedModule } from "./shared/shared.module";
     imports: [
         BrowserModule,
         RouterModule.forRoot(routes),
-        SharedModule
+        LayoutModule,
+        SharedModule,
     ]
 })
 export class AppModule { }

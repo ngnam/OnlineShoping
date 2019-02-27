@@ -6,6 +6,7 @@ import { LayoutMainComponent } from "./layout-main.component";
 import { LayoutComponent } from "./layout.component";
 import { MainComponent } from "./main/main.component";
 import { NavComponent } from "./nav/nav.component";
+import { CommonModule } from "@angular/common";
 
 @NgModule({
     declarations: [
@@ -16,6 +17,14 @@ import { NavComponent } from "./nav/nav.component";
         MainComponent,
         NavComponent
     ],
-    imports: [RouterModule]
+    exports: [
+        FooterComponent,
+        HeaderComponent,
+        LayoutComponent,
+        LayoutMainComponent,
+        MainComponent,
+        NavComponent
+    ],
+    imports: [CommonModule, RouterModule]
 })
 export class LayoutModule { }

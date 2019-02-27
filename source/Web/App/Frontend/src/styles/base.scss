@@ -1,0 +1,527 @@
+/*import font-awesom*/
+@import "~font-awesome/css/font-awesome.css";
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400i,700i');
+
+@font-face {
+    font-family: 'playfair_displayregular';
+    src: url(https://fonts.googleapis.com/css?family=Playfair+Display);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'brandon_grotesquebold';
+    src: url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_bld-webfont.eot?9031248892844675455);
+    src: url("http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_bld-webfont.eot?9031248892844675455?#iefix") format('embedded-opentype'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_bld-webfont.woff2?9031248892844675455) format('woff2'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_bld-webfont.woff?9031248892844675455) format('woff'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_bld-webfont.ttf?9031248892844675455) format('truetype'), url("http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_bld-webfont.svg?9031248892844675455#brandon_grotesquebold") format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'brandon_grotesque_regularRg';
+    src: url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_reg-webfont.eot?9031248892844675455);
+    src: url("http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_reg-webfont.eot?9031248892844675455?#iefix") format('embedded-opentype'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_reg-webfont.woff2?9031248892844675455) format('woff2'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_reg-webfont.woff?9031248892844675455) format('woff'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_reg-webfont.ttf?9031248892844675455) format('truetype'), url("http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_reg-webfont.svg?9031248892844675455#brandon_grotesque_regularRg") format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'brandon_grotesquemedium';
+    src: url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_med-webfont.eot?9031248892844675455);
+    src: url("http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_med-webfont.eot?9031248892844675455?#iefix") format('embedded-opentype'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_med-webfont.woff2?9031248892844675455) format('woff2'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_med-webfont.woff?9031248892844675455) format('woff'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_med-webfont.ttf?9031248892844675455) format('truetype'), url("http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_med-webfont.svg?9031248892844675455#brandon_grotesquemedium") format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'playfair_display_scblack';
+    src: url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/playfairdisplaysc-black-webfont.eot?9031248892844675455);
+    src: url("http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/playfairdisplaysc-black-webfont.eot?9031248892844675455?#iefix") format('embedded-opentype'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/playfairdisplaysc-black-webfont.woff2?9031248892844675455) format('woff2'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/playfairdisplaysc-black-webfont.woff?9031248892844675455) format('woff'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/playfairdisplaysc-black-webfont.ttf?9031248892844675455) format('truetype'), url("http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/playfairdisplaysc-black-webfont.svg?9031248892844675455#playfair_display_scblack") format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Montserrat Italic'), local('Montserrat-Italic'), url(https://fonts.gstatic.com/s/montserrat/v12/-iqwlckIhsmvkx0N6rwPmugdm0LZdjqr5-oayXSOefg.woff2) format('woff2')
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Montserrat Bold Italic'), local('Montserrat-BoldItalic'), url(https://fonts.gstatic.com/s/montserrat/v12/zhwB3-BAdyKDf0geWr9Ft3NuWYKPzoeKl5tYj8yhly0.woff2) format('woff2')
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Montserrat Regular'), local('Montserrat-Regular'), url(https://fonts.gstatic.com/s/montserrat/v12/zhcz-_WihjSQC0oHJ9TCYPk_vArhqVIZ0nv9q090hN8.woff2) format('woff2')
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Montserrat Medium'), local('Montserrat-Medium'), url(https://fonts.gstatic.com/s/montserrat/v12/BYPM-GE291ZjIXBWrtCwejOo-lJoxoMO4vrg2XwIHQk.woff2) format('woff2')
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Montserrat SemiBold'), local('Montserrat-SemiBold'), url(https://fonts.gstatic.com/s/montserrat/v12/q2OIMsAtXEkOulLQVdSl06VlZKEoJGujTpfWnQT9bUY.woff2) format('woff2')
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Montserrat Bold'), local('Montserrat-Bold'), url(https://fonts.gstatic.com/s/montserrat/v12/IQHow_FEYlDC4Gzy_m8fcoWiMMZ7xLd792ULpGE4W_Y.woff2) format('woff2')
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Raleway Italic'), local('Raleway-Italic'), url(https://fonts.gstatic.com/s/raleway/v12/IIm-lPOtfVKQy0GMiczF_1tXRa8TVwTICgirnJhmVJw.woff2) format('woff2')
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Raleway Bold Italic'), local('Raleway-BoldItalic'), url(https://fonts.gstatic.com/s/raleway/v12/lFxvRPuGFG5ktd7P0WRwKugdm0LZdjqr5-oayXSOefg.woff2) format('woff2')
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Raleway'), local('Raleway-Regular'), url(https://fonts.gstatic.com/s/raleway/v12/0dTEPzkLWceF7z0koJaX1A.woff2) format('woff2')
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Raleway Medium'), local('Raleway-Medium'), url(https://fonts.gstatic.com/s/raleway/v12/CcKI4k9un7TZVWzRVT-T8_k_vArhqVIZ0nv9q090hN8.woff2) format('woff2')
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Raleway SemiBold'), local('Raleway-SemiBold'), url(https://fonts.gstatic.com/s/raleway/v12/xkvoNo9fC8O2RDydKj12b_k_vArhqVIZ0nv9q090hN8.woff2) format('woff2')
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Raleway Bold'), local('Raleway-Bold'), url(https://fonts.gstatic.com/s/raleway/v12/JbtMzqLaYbbbCL9X6EvaI_k_vArhqVIZ0nv9q090hN8.woff2) format('woff2')
+}
+
+@font-face {
+    font-family: 'playfair_displayitalic';
+    src: url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/playfairdisplay-italic-webfont.eot?9031248892844675455);
+    src: url("http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/playfairdisplay-italic-webfont.eot?9031248892844675455?#iefix") format('embedded-opentype'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/playfairdisplay-italic-webfont.woff2?9031248892844675455) format('woff2'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/playfairdisplay-italic-webfont.woff?9031248892844675455) format('woff'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/playfairdisplay-italic-webfont.ttf?9031248892844675455) format('truetype'), url("http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/playfairdisplay-italic-webfont.svg?9031248892844675455#playfair_displayitalic") format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'playfair_displayregular';
+    src: url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/playfairdisplay-regular-webfont.eot?9031248892844675455);
+    src: url("http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/playfairdisplay-regular-webfont.eot?9031248892844675455?#iefix") format('embedded-opentype'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/playfairdisplay-regular-webfont.woff2?9031248892844675455) format('woff2'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/playfairdisplay-regular-webfont.woff?9031248892844675455) format('woff'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/playfairdisplay-regular-webfont.ttf?9031248892844675455) format('truetype'), url("http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/playfairdisplay-regular-webfont.svg?9031248892844675455#playfair_displayregular") format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'brandon_grotesquebold';
+    src: url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_bld-webfont.eot?9031248892844675455);
+    src: url("http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_bld-webfont.eot?9031248892844675455?#iefix") format('embedded-opentype'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_bld-webfont.woff2?9031248892844675455) format('woff2'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_bld-webfont.woff?9031248892844675455) format('woff'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_bld-webfont.ttf?9031248892844675455) format('truetype'), url("http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_bld-webfont.svg?9031248892844675455#brandon_grotesquebold") format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'brandon_grotesque_regularRg';
+    src: url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_reg-webfont.eot?9031248892844675455);
+    src: url("http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_reg-webfont.eot?9031248892844675455?#iefix") format('embedded-opentype'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_reg-webfont.woff2?9031248892844675455) format('woff2'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_reg-webfont.woff?9031248892844675455) format('woff'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_reg-webfont.ttf?9031248892844675455) format('truetype'), url("http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_reg-webfont.svg?9031248892844675455#brandon_grotesque_regularRg") format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'brandon_grotesquemedium';
+    src: url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_med-webfont.eot?9031248892844675455);
+    src: url("http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_med-webfont.eot?9031248892844675455?#iefix") format('embedded-opentype'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_med-webfont.woff2?9031248892844675455) format('woff2'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_med-webfont.woff?9031248892844675455) format('woff'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_med-webfont.ttf?9031248892844675455) format('truetype'), url("http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/brandon_med-webfont.svg?9031248892844675455#brandon_grotesquemedium") format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'playfair_display_scblack';
+    src: url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/playfairdisplaysc-black-webfont.eot?9031248892844675455);
+    src: url("http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/playfairdisplaysc-black-webfont.eot?9031248892844675455?#iefix") format('embedded-opentype'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/playfairdisplaysc-black-webfont.woff2?9031248892844675455) format('woff2'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/playfairdisplaysc-black-webfont.woff?9031248892844675455) format('woff'), url(http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/playfairdisplaysc-black-webfont.ttf?9031248892844675455) format('truetype'), url("http://cdn.shopify.com/s/files/1/1504/0434/t/5/assets/playfairdisplaysc-black-webfont.svg?9031248892844675455#playfair_display_scblack") format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Montserrat Italic'), local('Montserrat-Italic'), url(https://fonts.gstatic.com/s/montserrat/v12/-iqwlckIhsmvkx0N6rwPmugdm0LZdjqr5-oayXSOefg.woff2) format('woff2')
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Montserrat Bold Italic'), local('Montserrat-BoldItalic'), url(https://fonts.gstatic.com/s/montserrat/v12/zhwB3-BAdyKDf0geWr9Ft3NuWYKPzoeKl5tYj8yhly0.woff2) format('woff2')
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Montserrat Regular'), local('Montserrat-Regular'), url(https://fonts.gstatic.com/s/montserrat/v12/zhcz-_WihjSQC0oHJ9TCYPk_vArhqVIZ0nv9q090hN8.woff2) format('woff2')
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Montserrat Medium'), local('Montserrat-Medium'), url(https://fonts.gstatic.com/s/montserrat/v12/BYPM-GE291ZjIXBWrtCwejOo-lJoxoMO4vrg2XwIHQk.woff2) format('woff2')
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Montserrat SemiBold'), local('Montserrat-SemiBold'), url(https://fonts.gstatic.com/s/montserrat/v12/q2OIMsAtXEkOulLQVdSl06VlZKEoJGujTpfWnQT9bUY.woff2) format('woff2')
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Montserrat Bold'), local('Montserrat-Bold'), url(https://fonts.gstatic.com/s/montserrat/v12/IQHow_FEYlDC4Gzy_m8fcoWiMMZ7xLd792ULpGE4W_Y.woff2) format('woff2')
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Raleway Italic'), local('Raleway-Italic'), url(https://fonts.gstatic.com/s/raleway/v12/IIm-lPOtfVKQy0GMiczF_1tXRa8TVwTICgirnJhmVJw.woff2) format('woff2')
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Raleway Bold Italic'), local('Raleway-BoldItalic'), url(https://fonts.gstatic.com/s/raleway/v12/lFxvRPuGFG5ktd7P0WRwKugdm0LZdjqr5-oayXSOefg.woff2) format('woff2')
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Raleway'), local('Raleway-Regular'), url(https://fonts.gstatic.com/s/raleway/v12/0dTEPzkLWceF7z0koJaX1A.woff2) format('woff2')
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Raleway Medium'), local('Raleway-Medium'), url(https://fonts.gstatic.com/s/raleway/v12/CcKI4k9un7TZVWzRVT-T8_k_vArhqVIZ0nv9q090hN8.woff2) format('woff2')
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Raleway SemiBold'), local('Raleway-SemiBold'), url(https://fonts.gstatic.com/s/raleway/v12/xkvoNo9fC8O2RDydKj12b_k_vArhqVIZ0nv9q090hN8.woff2) format('woff2')
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Raleway Bold'), local('Raleway-Bold'), url(https://fonts.gstatic.com/s/raleway/v12/JbtMzqLaYbbbCL9X6EvaI_k_vArhqVIZ0nv9q090hN8.woff2) format('woff2')
+}
+
+.additional-checkout-button {
+    border: 0 !important;
+    border-radius: 5px !important;
+    display: inline-block;
+    margin: 0 0 10px;
+    padding: 0 24px !important;
+    max-width: 100%;
+    min-width: 150px !important;
+    line-height: 44px !important;
+    text-align: center !important
+}
+
+.additional-checkout-button + .additional-checkout-button {
+    margin-left: 10px
+}
+
+.additional-checkout-button:last-child {
+    margin-bottom: 0
+}
+
+.additional-checkout-button span {
+    font-size: 14px !important
+}
+
+.additional-checkout-button img {
+    display: inline-block !important;
+    height: 1.3em !important;
+    margin: 0 !important;
+    vertical-align: middle !important;
+    width: auto !important
+}
+
+@media (max-width: 500px) {
+    .additional-checkout-button {
+        display: block;
+        margin-left: 0 !important;
+        padding: 0 10px !important;
+        width: 100%
+    }
+}
+
+.additional-checkout-button--apple-pay {
+    background-color: #000 !important;
+    color: #fff !important;
+    display: none;
+    font-family: -apple-system, Helvetica Neue, sans-serif !important;
+    min-width: 150px !important;
+    white-space: nowrap !important
+}
+
+.additional-checkout-button--apple-pay:hover, .additional-checkout-button--apple-pay:active, .additional-checkout-button--apple-pay:visited {
+    color: #fff !important;
+    text-decoration: none !important
+}
+
+.additional-checkout-button--apple-pay .additional-checkout-button__logo {
+    background: -webkit-named-image(apple-pay-logo-white) center center no-repeat !important;
+    background-size: auto 100% !important;
+    display: inline-block !important;
+    vertical-align: middle !important;
+    width: 3em !important;
+    height: 1.3em !important
+}
+
+@media (max-width: 500px) {
+    .additional-checkout-button--apple-pay {
+        display: none
+    }
+}
+
+.additional-checkout-button--google-pay {
+    line-height: 0 !important;
+    padding: 0 !important;
+    border-radius: unset !important;
+    width: 80px !important
+}
+
+@media (max-width: 500px) {
+    .additional-checkout-button--google-pay {
+        width: 100% !important
+    }
+}
+
+.gpay-iframe {
+    height: 44px !important;
+    width: 100% !important;
+    cursor: pointer;
+    vertical-align: middle !important
+}
+
+.additional-checkout-button--paypal-express {
+    background-color: #ffc439 !important
+}
+
+.additional-checkout-button--paypal, .additional-checkout-button--venmo {
+    vertical-align: top;
+    line-height: 0 !important;
+    padding: 0 !important
+}
+
+.additional-checkout-button--amazon {
+    background-color: #fad676 !important;
+    position: relative !important
+}
+
+.additional-checkout-button--amazon .additional-checkout-button__logo {
+    -webkit-transform: translateY(4px) !important;
+    transform: translateY(4px) !important
+}
+
+.additional-checkout-button--amazon .alt-payment-list-amazon-button-image {
+    max-height: none !important;
+    opacity: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100% !important
+}
+
+.additional-checkout-button-visually-hidden {
+    border: 0 !important;
+    clip: rect(0, 0, 0, 0) !important;
+    clip: rect(0 0 0 0) !important;
+    width: 1px !important;
+    height: 1px !important;
+    margin: -2px !important;
+    overflow: hidden !important;
+    padding: 0 !important;
+    position: absolute !important
+}
+
+.additional-checkout-button {
+    border: 0 !important;
+    border-radius: 5px !important;
+    display: inline-block;
+    margin: 0 0 10px;
+    padding: 0 24px !important;
+    max-width: 100%;
+    min-width: 150px !important;
+    line-height: 44px !important;
+    text-align: center !important
+}
+
+.additional-checkout-button + .additional-checkout-button {
+    margin-left: 10px
+}
+
+.additional-checkout-button:last-child {
+    margin-bottom: 0
+}
+
+.additional-checkout-button span {
+    font-size: 14px !important
+}
+
+.additional-checkout-button img {
+    display: inline-block !important;
+    height: 1.3em !important;
+    margin: 0 !important;
+    vertical-align: middle !important;
+    width: auto !important
+}
+
+@media (max-width: 500px) {
+    .additional-checkout-button {
+        display: block;
+        margin-left: 0 !important;
+        padding: 0 10px !important;
+        width: 100%
+    }
+}
+
+.additional-checkout-button--apple-pay {
+    background-color: #000 !important;
+    color: #fff !important;
+    display: none;
+    font-family: -apple-system, Helvetica Neue, sans-serif !important;
+    min-width: 150px !important;
+    white-space: nowrap !important
+}
+
+.additional-checkout-button--apple-pay:hover, .additional-checkout-button--apple-pay:active, .additional-checkout-button--apple-pay:visited {
+    color: #fff !important;
+    text-decoration: none !important
+}
+
+.additional-checkout-button--apple-pay .additional-checkout-button__logo {
+    background: -webkit-named-image(apple-pay-logo-white) center center no-repeat !important;
+    background-size: auto 100% !important;
+    display: inline-block !important;
+    vertical-align: middle !important;
+    width: 3em !important;
+    height: 1.3em !important
+}
+
+@media (max-width: 500px) {
+    .additional-checkout-button--apple-pay {
+        display: none
+    }
+}
+
+.additional-checkout-button--google-pay {
+    line-height: 0 !important;
+    padding: 0 !important;
+    border-radius: unset !important;
+    width: 80px !important
+}
+
+@media (max-width: 500px) {
+    .additional-checkout-button--google-pay {
+        width: 100% !important
+    }
+}
+
+.gpay-iframe {
+    height: 44px !important;
+    width: 100% !important;
+    cursor: pointer;
+    vertical-align: middle !important
+}
+
+.additional-checkout-button--paypal-express {
+    background-color: #ffc439 !important
+}
+
+.additional-checkout-button--paypal, .additional-checkout-button--venmo {
+    vertical-align: top;
+    line-height: 0 !important;
+    padding: 0 !important
+}
+
+.additional-checkout-button--amazon {
+    background-color: #fad676 !important;
+    position: relative !important
+}
+
+.additional-checkout-button--amazon .additional-checkout-button__logo {
+    -webkit-transform: translateY(4px) !important;
+    transform: translateY(4px) !important
+}
+
+.additional-checkout-button--amazon .alt-payment-list-amazon-button-image {
+    max-height: none !important;
+    opacity: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100% !important
+}
+
+.additional-checkout-button-visually-hidden {
+    border: 0 !important;
+    clip: rect(0, 0, 0, 0) !important;
+    clip: rect(0 0 0 0) !important;
+    width: 1px !important;
+    height: 1px !important;
+    margin: -2px !important;
+    overflow: hidden !important;
+    padding: 0 !important;
+    position: absolute !important
+}

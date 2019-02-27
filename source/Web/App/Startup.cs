@@ -24,7 +24,7 @@ namespace Solution.Web.App
             application.UseAuthentication();
             application.UseCorsCustom();
             application.UseHstsCustom();
-            application.UseHttpsRedirection();
+            //application.UseHttpsRedirection();
             application.UseStaticFiles();
             application.UseSpaStaticFiles();
             application.UseResponseCaching();

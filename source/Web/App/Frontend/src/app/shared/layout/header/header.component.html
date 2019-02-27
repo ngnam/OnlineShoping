@@ -1,3 +1,192 @@
-<header class="uk-padding-small">
-    <h1>TITLE</h1>
-</header>
+
+<div id="shopify-section-header" class="shopify-section">
+
+    <div data-section-id="header" data-section-type="header-section">
+
+        <header class="site-header is-light" [ngClass]="{'mobile sticky site-header--drawer': isMobile, 'site-header--classic': !isMobile  }">
+
+            <div class="site-header-wrapper">
+
+                <div class="wrapper">
+
+                    <h1 class="site-header__logo  display-table use-image">
+                        <a [routerLink]="['/home']" class="site-header__logo-link display-table-cell">
+                            <img src="/assets/images/assets/Site-LOGO-NEw_220x.jpg" class="c-header-logo" alt="Bouquet Bar" itemprop="logo">
+                        </a>
+
+                        <img src="/assets/images/assets/free-shipping-icon-large8f03.png" id="free-shipping-icon" class="c-header-logo" style="
+								position: absolute;
+								top: 50%;
+								transform: translateY(-50%);
+								max-width: 220px;
+								" alt="free shipping" itemprop="logo">
+                    </h1>
+
+                    <nav class="nav-bar animate" role="navigation" aria-hidden="false" [ngClass]="{'opened': isNavMobile}">
+                        <ul class="site-nav cart-empty" id="AccessibleNav">
+                            <li class="" aria-haspopup="true">
+                                <a href="#" data-nav-item="1" class="site-nav__link js-nav-item" (click)="showNavMenu($event)" (mouseenter)="showNavMenu($event)">
+                                    Shop
+                                    <span class="icon icon-arrow-down fa fa-angle-down"></span>
+                                </a>
+                                <div class="mobile-sub-menu-wrap" [ngClass]="{'is-visible': isVisibled}">
+                                    <a class="mobile-sub-menu__link" href="collections/mixology-bar.html">
+                                        <div class="mobile-sub-menu">
+
+                                            <div class="mobile-sub-menu__icon">
+
+
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87.56 96.25">
+                                                    <title>
+                                                        mixology
+                                                    </title>
+                                                    <path d="M72.24 0a15.34 15.34 0 0 0-15.33 15.31 15.62 15.62 0 0 0 .18 2.19H2.19a2.19 2.19 0 0 0-1.55 3.73L35 55.59v36.28H19.7a2.19 2.19 0 1 0 0 4.38h35a2.19 2.19 0 1 0 0-4.38H39.4V55.59L65.81 29.2A15.31 15.31 0 1 0 72.24 0zM67 21.87L37.21 51.59 7.47 21.87zm5.28 4.38a11.08 11.08 0 0 1-3-.43l4.58-4.58a2.19 2.19 0 0 0-1.55-3.73H61.53a10.94 10.94 0 1 1 10.71 8.75z"></path>
+                                                </svg>
+
+
+                                            </div>
+
+                                            <div class="mobile-sub-menu__text">
+                                                <!--                                                         <h3>Mixology Bar</h3>
+                                                <h5>Design Your Gift</h5> -->
+
+                                                <h3>Design Your Gift</h3>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <a class="mobile-sub-menu__link" href="collections/house-specials.html">
+                                        <div class="mobile-sub-menu">
+
+                                            <div class="mobile-sub-menu__icon">
+
+
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60.81 96.25">
+                                                    <title>
+                                                        House Specials
+                                                    </title>
+                                                    <path id="populer-mixes" d="M60.81 42.11a1.77 1.77 0 0 0-.05-.24 2 2 0 0 0-.08-.39 1.91 1.91 0 0 0-.17-.35 1.65 1.65 0 0 0-.5-.57 1.92 1.92 0 0 0-.31-.21 1.88 1.88 0 0 0-.38-.14 1.67 1.67 0 0 0-.23-.08H47.7L49.29 28a10 10 0 0 0 2.56-19.42l.83-6.32A2 2 0 0 0 50.94 0a2 2 0 0 0-2.27 1.73l-.85 6.37a10 10 0 0 0-2.55 19.35L43.6 40.1H1.69a1.67 1.67 0 0 0-.23.08 1.88 1.88 0 0 0-.38.14 1.92 1.92 0 0 0-.31.21 1.9 1.9 0 0 0-.29.26 1.89 1.89 0 0 0-.21.31 1.91 1.91 0 0 0-.17.35 2 2 0 0 0-.08.39 1.8 1.8 0 0 0 0 .24v.3L6.9 86.62a11.83 11.83 0 0 0 11.35 9.63h24.32a11.82 11.82 0 0 0 11.34-9.63l6.88-44.21v-.15s.02-.1.02-.15zM42.57 18a6.08 6.08 0 1 1 6.08 6 6.05 6.05 0 0 1-6.08-6zm13.85 26.11l-2.5 16h-8.87l2.11-16zM41 60.15H6.88l-2.49-16h38.69zM10.9 86L7.51 64.16h32.92l-3.7 28.07H18.24A7.75 7.75 0 0 1 10.9 86zm39 0a7.74 7.74 0 0 1-7.34 6.23h-1.74l3.7-28.07h8.78z"></path>
+                                                </svg>
+
+
+                                            </div>
+
+                                            <div class="mobile-sub-menu__text">
+                                                <!--                                                         <h3>House Specials</h3>
+                                                <h5>Shop Occasions</h5> -->
+
+                                                <h3>Shop Occasions</h3>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <a class="mobile-sub-menu__link" href="pages/boardroom.html">
+                                        <div class="mobile-sub-menu">
+
+                                            <div class="mobile-sub-menu__icon">
+
+
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96.95 93.09">
+                                                    <title>
+                                                        boardroom
+                                                    </title>
+                                                    <path d="M48 0H5.75a1.93 1.93 0 0 0-1.9 1.68L0 30.77v.26a27 27 0 0 0 24.93 27.05v31.13h-9.59a1.94 1.94 0 0 0 0 3.88h23a1.94 1.94 0 0 0 0-3.88h-9.57V58.08a27.09 27.09 0 0 0 24.92-27.31L49.85 1.68A1.93 1.93 0 0 0 48 0zM7.43 3.88h38.84l2.57 19.39h-44zM26.85 54.3a23.17 23.17 0 0 1-23-23.15l.53-4h45l.49 3.85a23.17 23.17 0 0 1-23.02 23.3zM97 47.81L94.21 27a1.93 1.93 0 0 0-1.9-1.68H62.06a1.93 1.93 0 0 0-1.9 1.68l-2.75 20.81a2 2 0 0 0 0 .26 19.88 19.88 0 0 0 17.85 19.81v21.33h-6.33a1.94 1.94 0 0 0 0 3.88h16.5a1.94 1.94 0 0 0 0-3.88H79.1V67.88A19.93 19.93 0 0 0 97 47.81zM63.74 29.16h26.88L92.32 42H62.05zm13.44 35a16.06 16.06 0 0 1-16-16l.31-2.36h31.3l.3 2.23A16.06 16.06 0 0 1 77.18 64.2z"></path>
+                                                </svg>
+
+
+                                            </div>
+
+                                            <div class="mobile-sub-menu__text">
+
+                                                <h3>Corporate Gifts</h3>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </li>
+                            <li>
+                                <a [routerLink]="['/about']" class="site-nav__link ">About</a>
+                            </li>
+                            <li>
+                                <a [routerLink]="['/faq']" class="site-nav__link ">FAQ</a>
+                            </li>
+                            <li class="btn__cart">
+                                <a [routerLink]="['/cart']" class="">
+                                    <span class="icon" aria-hidden="true">
+                                        4
+
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="22" viewBox="0 0 97.82 89.97"><title>shop</title><g id="Layer_2" data-name="Layer 2"><g id="hdr"><path id="shop" d="M85.49,67.08,97.72,28.53a2.23,2.23,0,0,0-.28-1.93,2,2,0,0,0-1.65-.89H23.67L18.29,1.65A2.06,2.06,0,0,0,16.3,0H2A2.09,2.09,0,0,0,0,2.14,2.09,2.09,0,0,0,2,4.28H14.69l15.44,69a8.52,8.52,0,0,0-5.68,8.12A8.38,8.38,0,0,0,32.61,90a8.38,8.38,0,0,0,8.15-8.57,8.81,8.81,0,0,0-1.13-4.28h30.8a8.8,8.8,0,0,0-1.13,4.28,8.16,8.16,0,1,0,8.15-8.57H34.22l-1-4.28H83.56A2,2,0,0,0,85.49,67.08ZM36.68,81.4a4.08,4.08,0,1,1-4.08-4.28A4.19,4.19,0,0,1,36.68,81.4Zm44.84,0a4.08,4.08,0,1,1-4.08-4.28A4.19,4.19,0,0,1,81.52,81.4ZM32.3,64.26,24.63,30H93L82.09,64.26Z"></path></g></g></svg>
+                                        <!-- 	<svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" width="22" height="27" viewBox="0 0 22 27" enable-background="new 0 0 22 27" xml:space="preserve"><path fill="#010101" d="M17.1 6.6V6.3C17.1 2.8 14.2 0 10.7 0S4.4 2.8 4.4 6.3v0.4H0V27h21.2V6.6H17.1zM6.3 6.3c0-2.4 2-4.3 4.4-4.3s4.4 2 4.4 4.3v0.4H6.3V6.3zM19 8.8v16H2.2V8.8"/></svg> -->
+
+                                    </span>
+                                    <span class="text">Shopping Cart</span>
+                                </a>
+                            </li>
+                            <li class="btn__account">
+                                <a [routerLink]="['/cart']">
+                                    <span class="icon" aria-hidden="true">
+
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="18" viewBox="0 0 95.33 95.33" enable-background="new 0 0 18 27" xml:space="preserve"><g id="Layer_2" data-name="Layer 2"><g id="hdr"><path id="login" d="M93.35,95.33H2a2,2,0,0,1-2-2,42,42,0,0,1,4.18-17c2.91-5.83,12.88-9.5,26.66-14.57L35.75,60V50.4a16.92,16.92,0,0,1-5.92-11.65,7.1,7.1,0,0,1-2-3.82c-.67-2.84-.32-6.21,1.72-8.17l-.2-.66c-1.35-4.44-3.85-12.71-.4-17.36A7.51,7.51,0,0,1,34.38,5.8C36.82,1.32,44.81-.13,51.33,0c7.55.18,16.83,2.72,18.14,9.3,1.12,5.61-1.71,12.75-3.24,16.59l-.37.92c2,2,2.31,5.29,1.65,8.1a7.1,7.1,0,0,1-2,3.82A16.92,16.92,0,0,1,59.58,50.4V60l4.9,1.81c13.79,5.07,23.75,8.74,26.67,14.57a42,42,0,0,1,4.18,17A2,2,0,0,1,93.35,95.33Zm-89.26-4H91.24A38.48,38.48,0,0,0,87.6,78.12C85.38,73.69,75.06,69.9,63.11,65.5L56.9,63.2a2,2,0,0,1-1.29-1.86V49.43a2,2,0,0,1,.88-1.65,12.82,12.82,0,0,0,5.07-10.27A2,2,0,0,1,63,35.59a7,7,0,0,0,.77-4.23,2.45,2.45,0,0,0-1.13-2,2,2,0,0,1-1.1-1.78,9.71,9.71,0,0,1,1-3.14c1.37-3.46,3.93-9.89,3-14.35C64.9,6.68,59,4.17,51.24,4S38.22,6,37.68,8.2a2,2,0,0,1-1.93,1.5c-1.74,0-2.93.46-3.62,1.4-2.26,3,0,10.61,1,13.84a10.09,10.09,0,0,1,.63,2.64,2,2,0,0,1-1.1,1.78,2.45,2.45,0,0,0-1.13,2,7,7,0,0,0,.77,4.23,2,2,0,0,1,1.47,1.92,12.88,12.88,0,0,0,5.07,10.27,2,2,0,0,1,.88,1.65V61.34a2,2,0,0,1-1.29,1.86c-2.13.8-4.21,1.57-6.22,2.3-12,4.39-22.27,8.19-24.48,12.62A38.46,38.46,0,0,0,4.09,91.36Z"></path></g></g></svg>
+                                        <!-- 	<svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" width="18" height="27" viewBox="0 0 18 27" enable-background="new 0 0 18 27" xml:space="preserve"><path d="M18 17h0c0-3.2-1.8-6.1-4.6-7.6 1-1 1.5-2.4 1.5-3.8 0-3.1-2.5-5.6-5.6-5.6C6.2 0 3.7 2.5 3.7 5.6c0 1.4 0.5 2.7 1.5 3.8 -2.8 1.5-4.6 4.5-4.6 7.7V26.5H18v-9.4V17zM2.7 17c0-2.8 1.8-5.3 4.5-6.2 0.3 0.1 0.6 0.2 1 0.3l0 0c0.6 0.1 1.1 0.1 1.7 0.1 0 0 0.1 0 0.1 0L10 11.2c0.1 0 0.3 0 0.4-0.1 0.3-0.1 0.7-0.2 1-0.3 2.7 0.9 4.5 3.4 4.5 6.3v7.2H2.7v-7.2L2.7 17zM9.3 2.1c1.9 0 3.5 1.6 3.5 3.5 0 1.9-1.6 3.5-3.5 3.5 -1.9 0-3.5-1.6-3.5-3.5C5.8 3.7 7.3 2.1 9.3 2.1z"/></svg> -->
+
+                                    </span>
+                                    <span class="text">My Account</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </nav>
+
+                    <button id="menu-opener" class="lines-button" href="#" (click)="showNavMobile($event)" [ngClass]="{'opened': isNavMobile}">
+                        <span class="fallback-text">Open Menu</span>
+                    </button>
+                </div>
+            </div>
+
+            <div data-nav-item="1" class="c-sub-nav js-sub-nav" [ngClass]="{'is-visible': isVisibled }" (mouseenter)="mouseenter()" (mouseleave)="mouseleave()">
+                <div class="wrapper">
+                    <ul class="c-sub-nav__list">
+                        <li class="c-sub-nav__item">
+                            <a href="collections/mixology-bar.html" class="c-sub-nav__link">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="c-sub-nav__icon" viewBox="0 0 87.56 96.25">
+                                    <title>
+                                        mixology
+                                    </title>
+                                    <path d="M72.24 0a15.34 15.34 0 0 0-15.33 15.31 15.62 15.62 0 0 0 .18 2.19H2.19a2.19 2.19 0 0 0-1.55 3.73L35 55.59v36.28H19.7a2.19 2.19 0 1 0 0 4.38h35a2.19 2.19 0 1 0 0-4.38H39.4V55.59L65.81 29.2A15.31 15.31 0 1 0 72.24 0zM67 21.87L37.21 51.59 7.47 21.87zm5.28 4.38a11.08 11.08 0 0 1-3-.43l4.58-4.58a2.19 2.19 0 0 0-1.55-3.73H61.53a10.94 10.94 0 1 1 10.71 8.75z"></path>
+                                </svg>
+                                <!--                             <span class="c-sub-nav__title">Mixology Bar</span>
+                                <span class="c-sub-nav__sub-title">Design Your Gift</span> -->
+                                <span class="c-sub-nav__title">Design Your Gift</span>
+                            </a>
+                        </li>
+
+                        <li class="c-sub-nav__item">
+                            <a href="collections/house-specials.html" class="c-sub-nav__link">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="c-sub-nav__icon" viewBox="0 0 60.81 96.25">
+                                    <title>
+                                        House Specials
+                                    </title>
+                                    <path id="popular-mixed" d="M60.81 42.11a1.77 1.77 0 0 0-.05-.24 2 2 0 0 0-.08-.39 1.91 1.91 0 0 0-.17-.35 1.65 1.65 0 0 0-.5-.57 1.92 1.92 0 0 0-.31-.21 1.88 1.88 0 0 0-.38-.14 1.67 1.67 0 0 0-.23-.08H47.7L49.29 28a10 10 0 0 0 2.56-19.42l.83-6.32A2 2 0 0 0 50.94 0a2 2 0 0 0-2.27 1.73l-.85 6.37a10 10 0 0 0-2.55 19.35L43.6 40.1H1.69a1.67 1.67 0 0 0-.23.08 1.88 1.88 0 0 0-.38.14 1.92 1.92 0 0 0-.31.21 1.9 1.9 0 0 0-.29.26 1.89 1.89 0 0 0-.21.31 1.91 1.91 0 0 0-.17.35 2 2 0 0 0-.08.39 1.8 1.8 0 0 0 0 .24v.3L6.9 86.62a11.83 11.83 0 0 0 11.35 9.63h24.32a11.82 11.82 0 0 0 11.34-9.63l6.88-44.21v-.15s.02-.1.02-.15zM42.57 18a6.08 6.08 0 1 1 6.08 6 6.05 6.05 0 0 1-6.08-6zm13.85 26.11l-2.5 16h-8.87l2.11-16zM41 60.15H6.88l-2.49-16h38.69zM10.9 86L7.51 64.16h32.92l-3.7 28.07H18.24A7.75 7.75 0 0 1 10.9 86zm39 0a7.74 7.74 0 0 1-7.34 6.23h-1.74l3.7-28.07h8.78z"></path>
+                                </svg>
+                                <!--                             <span class="c-sub-nav__title">House Specials</span>
+                                <span class="c-sub-nav__sub-title">Shop Occasions</span> -->
+                                <span class="c-sub-nav__title">Shop Occasions</span>
+                            </a>
+                        </li>
+
+                        <li class="c-sub-nav__item">
+                            <a href="pages/boardroom.html" class="c-sub-nav__link">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="c-sub-nav__icon" viewBox="0 0 96.95 93.09">
+                                    <title>
+                                        boardroom
+                                    </title>
+                                    <path d="M48 0H5.75a1.93 1.93 0 0 0-1.9 1.68L0 30.77v.26a27 27 0 0 0 24.93 27.05v31.13h-9.59a1.94 1.94 0 0 0 0 3.88h23a1.94 1.94 0 0 0 0-3.88h-9.57V58.08a27.09 27.09 0 0 0 24.92-27.31L49.85 1.68A1.93 1.93 0 0 0 48 0zM7.43 3.88h38.84l2.57 19.39h-44zM26.85 54.3a23.17 23.17 0 0 1-23-23.15l.53-4h45l.49 3.85a23.17 23.17 0 0 1-23.02 23.3zM97 47.81L94.21 27a1.93 1.93 0 0 0-1.9-1.68H62.06a1.93 1.93 0 0 0-1.9 1.68l-2.75 20.81a2 2 0 0 0 0 .26 19.88 19.88 0 0 0 17.85 19.81v21.33h-6.33a1.94 1.94 0 0 0 0 3.88h16.5a1.94 1.94 0 0 0 0-3.88H79.1V67.88A19.93 19.93 0 0 0 97 47.81zM63.74 29.16h26.88L92.32 42H62.05zm13.44 35a16.06 16.06 0 0 1-16-16l.31-2.36h31.3l.3 2.23A16.06 16.06 0 0 1 77.18 64.2z"></path>
+                                </svg>
+                                <!--                             <span class="c-sub-nav__title">The Boardroom</span>
+                                <span class="c-sub-nav__sub-title">Corporate Gifts</span> -->
+                                <span class="c-sub-nav__title">Corporate Gifts</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </header>
+    </div>
+</div>

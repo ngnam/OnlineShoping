@@ -7,6 +7,10 @@
         <TypeScriptToolsVersion>Latest</TypeScriptToolsVersion>
     </PropertyGroup>
     <ItemGroup>
+      <None Remove="Frontend\src\app\shared\directives\state\click-outside.directive.ts" />
+      <None Remove="Frontend\src\app\shared\directives\state\state.module.ts" />
+    </ItemGroup>
+    <ItemGroup>
         <Content Update="**/*package-lock.json" Visible="false" />
     </ItemGroup>
     <ItemGroup>
@@ -22,5 +26,9 @@
         <ProjectReference Include="..\..\CrossCutting\Utils\Solution.CrossCutting.Utils.csproj" />
         <ProjectReference Include="..\..\Model\Enums\Solution.Model.Enums.csproj" />
         <ProjectReference Include="..\..\Model\Models\Solution.Model.Models.csproj" />
+    </ItemGroup>
+    <ItemGroup>
+      <TypeScriptCompile Include="Frontend\src\app\shared\directives\state\click-outside.directive.ts" />
+      <TypeScriptCompile Include="Frontend\src\app\shared\directives\state\state.module.ts" />
     </ItemGroup>
 </Project>

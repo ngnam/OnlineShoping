@@ -1,7 +1,7 @@
 {
     "profiles": {
         "Run": {
-            "applicationUrl": "http://localhost:8090;https://localhost:8095",
+            "applicationUrl": "http://localhost:8090",
             "commandName": "Project",
             "environmentVariables": {
                 "ASPNETCORE_ENVIRONMENT": "Development"

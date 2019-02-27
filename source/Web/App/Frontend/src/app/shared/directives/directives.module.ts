@@ -2,6 +2,7 @@ import { CommonModule } from "@angular/common";
 import { NgModule } from "@angular/core";
 import { FormsModule, ReactiveFormsModule } from "@angular/forms";
 import { ValidationModule } from "./validation/validation.module";
+import { StateModule } from "./state/state.module";
 
 @NgModule({
     exports: [
@@ -11,7 +12,8 @@ import { ValidationModule } from "./validation/validation.module";
         CommonModule,
         FormsModule,
         ReactiveFormsModule,
-        ValidationModule
+        ValidationModule,
+        StateModule
     ]
 })
 export class DirectivesModule { }
