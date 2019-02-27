@@ -22,7 +22,7 @@ namespace Solution.CrossCutting.DependencyInjection
                 mySqlOptions.ServerVersion(new Version(5, 7, 17), ServerType.MariaDb); // replace with your Server Version and Type
             }));
             var context = GetService<T>();
-            context.Database.EnsureCreated();
+            //context.Database.EnsureCreated();
             context.Database.Migrate();
         }
 
