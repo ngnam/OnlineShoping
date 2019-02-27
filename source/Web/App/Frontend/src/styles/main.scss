@@ -60,7 +60,16 @@ a, .nav-bar li a, .nav-bar li .btn__account a, .btn, .video-overlay, .flexslider
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%)
 }
-
+#google-reviews {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px 0 50px;
+}
+.review-item {
+    overflow: hidden;
+    margin: 0 auto;
+    flex: 1 1 25%;
+}
 .text-center .header__custom hr:after, .header__custom .text-center hr:after, .text-center .home-section-title:after {
     margin-left: auto;
     margin-right: auto
