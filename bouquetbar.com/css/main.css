@@ -7129,11 +7129,11 @@ hr.thin-line {
 .mfp-s-error .mfp-content {
     display: none
 }
-
+dn
 .mfp-preloader {
     width: 62px;
     height: 62px;
-    background: url(//cdn.shopify.com/s/files/1/1504/0434/t/5/assets/preloader.gif?1605284142632195360) no-repeat center center #222;
+    background: url(./../images/assets/preloader.gif) no-repeat center center #222;
     background-size: 32px 32px;
     margin: 0 auto;
     font-size: 0
@@ -8254,7 +8254,7 @@ img.mfp-img {
 }
 
 .c-boardroom__footer-banner {
-    background: url(//cdn.shopify.com/s/files/1/1504/0434/t/5/assets/boardroom-banner.jpg?1605284142632195360) center;
+    background: url(./../images/assets/boardroom-banner.jpg) center;
     background-size: cover;
     width: 100%;
     height: 436px
@@ -8416,7 +8416,7 @@ img.mfp-img {
 }
 
 .c-builder__section-bg {
-    background: url(//cdn.shopify.com/s/files/1/1504/0434/t/5/assets/wave-gray.jpg?1605284142632195360);
+    background: url(./../images/assets/wave-gray.jpg);
     position: relative
 }
 
@@ -8453,7 +8453,7 @@ img.mfp-img {
 }
 
 .c-builder__section-bg--notes {
-    background: url(//cdn.shopify.com/s/files/1/1504/0434/t/5/assets/personalize-bg.jpg?1605284142632195360) top center no-repeat;
+    background: url(./../images/assets/personalize-bg.jpg) top center no-repeat;
     background-size: cover
 }
 
@@ -11419,11 +11419,11 @@ footer .site-header__logo-link.site-header__logo-link img {
 }
 
 .c-page-header-bg {
-    background: url(//cdn.shopify.com/s/files/1/1504/0434/t/5/assets/wave.jpg?1605284142632195360)
+    background: url(./../images/assets/wave.jpg)
 }
 
 .prlx-bg--repeat {
-    background-image: url(//cdn.shopify.com/s/files/1/1504/0434/t/5/assets/wave.jpg?1605284142632195360);
+    background-image: url(./../images/assets/wave.jpg);
     background-repeat: repeat;
     background-size: auto;
     background-color: #ddf5ff
@@ -11520,7 +11520,7 @@ footer .site-header__logo-link.site-header__logo-link img {
 
 .c-popular-mixes__header {
     position: relative;
-    background: url(//cdn.shopify.com/s/files/1/1504/0434/t/5/assets/popular-mixes-title-bg.jpg?1605284142632195360);
+    background: url(./../images/assets/popular-mixes-title-bg.jpg);
     background-size: cover;
     width: 100%;
     padding: 30px 0;
@@ -11771,7 +11771,7 @@ footer .site-header__logo-link.site-header__logo-link img {
 
 .product__related {
     text-align: center;
-    background: url(//cdn.shopify.com/s/files/1/1504/0434/t/5/assets/wave-gray.jpg?1605284142632195360);
+    background: url(./../images/assets/wave-gray.jpg);
     width: 100%;
     padding: 60px 0 40px
 }
@@ -11779,7 +11779,7 @@ footer .site-header__logo-link.site-header__logo-link img {
 .product__related .section-header__title {
     font-size: 36px;
     margin-bottom: 1em;
-    background: url(//cdn.shopify.com/s/files/1/1504/0434/t/5/assets/wave-gray.jpg?1605284142632195360);
+    background: url(/../images/assets/wave-gray.jpg);
     background-size: 0 0;
     position: relative;
     display: inline-block;
@@ -12035,7 +12035,7 @@ footer .site-header__logo-link.site-header__logo-link img {
 .c-section-divider {
     height: 81px;
     width: 100%;
-    background: url(//cdn.shopify.com/s/files/1/1504/0434/t/5/assets/wave-gray.jpg?1605284142632195360);
+    background: url(/../images/assets/wave-gray.jpg);
     background-repeat: repeat;
     border-top: 1px solid #e6e6e6;
     border-bottom: 1px solid #e6e6e6;
@@ -12572,7 +12572,7 @@ footer .site-header__logo-link.site-header__logo-link img {
     height: 668px;
     position: absolute;
     bottom: 0;
-    background: url(//cdn.shopify.com/s/files/1/1504/0434/t/5/assets/lily.png?1605284142632195360) bottom left no-repeat;
+    background: url(./../images/assets/lily.png) bottom left no-repeat;
     background-size: contain
 }
 
@@ -12719,7 +12719,7 @@ footer .site-header__logo-link.site-header__logo-link img {
     content: '';
     display: block;
     position: absolute;
-    background-image: url(//cdn.shopify.com/s/files/1/1504/0434/t/5/assets/card-edge.png?1605284142632195360);
+    background-image: url(./../images/assets/card-edge.png);
     background-repeat: no-repeat;
     width: 58px;
     height: 225px;
