@@ -13071,3 +13071,13 @@ footer .site-header__logo-link.site-header__logo-link img {
     width: 100%;
     height: 100%;
 }
+#google-reviews {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px 0 50px;
+}
+.review-item {
+    overflow: hidden;
+    margin: 0 auto;
+    flex: 1 1 25%;
+}
