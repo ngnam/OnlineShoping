@@ -13058,3 +13058,14 @@ footer .site-header__logo-link.site-header__logo-link img {
         display: block
     }
 }
+
+#google-reviews {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px 0 50px;
+}
+.review-item {
+    overflow: hidden;
+    margin: 0 auto;
+    flex: 1 1 25%;
+}
