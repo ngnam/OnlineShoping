@@ -7142,7 +7142,7 @@ dn
 .mfp-preloader {
     width: 62px;
     height: 62px;
-    background: url(/assets/images/assets/preloader.gif) no-repeat center center #222;
+    background: url(../assets/images/assets/preloader.gif) no-repeat center center #222;
     background-size: 32px 32px;
     margin: 0 auto;
     font-size: 0
@@ -8263,7 +8263,7 @@ img.mfp-img {
 }
 
 .c-boardroom__footer-banner {
-    background: url(/assets/images/assets/boardroom-banner.jpg) center;
+    background: url(../assets/images/assets/boardroom-banner.jpg) center;
     background-size: cover;
     width: 100%;
     height: 436px
@@ -8425,7 +8425,7 @@ img.mfp-img {
 }
 
 .c-builder__section-bg {
-    background: url(/assets/images/assets/wave-gray.jpg);
+    background: url(../assets/images/assets/wave-gray.jpg);
     position: relative
 }
 
@@ -8462,7 +8462,7 @@ img.mfp-img {
 }
 
 .c-builder__section-bg--notes {
-    background: url(/assets/images/assets/personalize-bg.jpg) top center no-repeat;
+    background: url(../assets/images/assets/personalize-bg.jpg) top center no-repeat;
     background-size: cover
 }
 
@@ -9068,7 +9068,7 @@ img.mfp-img {
 
 .c-datepicker {
     margin-bottom: 20px;
-    background: url(/assets/images/assets/calendar.svg) center right 15px no-repeat;
+    background: url(../assets/images/assets/calendar.svg) center right 15px no-repeat;
     background-size: 25px 25px
 }
 
@@ -9077,7 +9077,7 @@ img.mfp-img {
 }
 
 .c-divider {
-    background: url(/assets/images/assets/divider-bg.jpg);
+    background: url(../assets/images/assets/divider-bg.jpg);
     background-size: cover;
     height: 80px;
     width: 100%
@@ -9086,7 +9086,7 @@ img.mfp-img {
 .c-divider--title--boardroom {
     width: 100%;
     padding: 30px 0;
-    background: url(/assets/images/assets/boardroom-title-bg.jpg);
+    background: url(../assets/images/assets/boardroom-title-bg.jpg);
     background-size: cover;
     display: -webkit-inline-flex;
     display: -ms-inline-flexbox;
@@ -9772,12 +9772,12 @@ footer .site-header__logo-link.site-header__logo-link img {
 }
 
 #menu-opener {
-    background: #fff url(/assets/images/assets/mobile-menu.svg) center no-repeat;
+    background: #fff url(../assets/images/assets/mobile-menu.svg) center no-repeat;
     background-size: 30px
 }
 
 #menu-opener.opened {
-    background: #f3603f url(/assets/images/assets/mobile-close.svg) center no-repeat;
+    background: #f3603f url(../assets/images/assets/mobile-close.svg) center no-repeat;
     border-color: #f3603f;
     background-size: 30px
 }
@@ -10109,7 +10109,7 @@ footer .site-header__logo-link.site-header__logo-link img {
 }
 
 .c-make-it-special__bg {
-    background-image: url(/assets/images/assets/pattern-1.jpg)
+    background-image: url(../assets/images/assets/pattern-1.jpg)
 }
 
 .c-make-it-special__btn-container {
@@ -10493,18 +10493,18 @@ footer .site-header__logo-link.site-header__logo-link img {
     right: -40px;
     width: 32px;
     height: 7px;
-    background: url(/assets/images/assets/arrow.png);
+    background: url(../assets/images/assets/arrow.png);
     background-size: cover
 }
 
 .c-mission__bg {
-    background-image: url(/assets/images/assets/mission-bg.jpg);
+    background-image: url(../assets/images/assets/mission-bg.jpg);
     background-size: cover
 }
 
 @media screen and (max-width: 767px) {
     .c-mission__bg {
-        background-image: url(/assets/images/assets/mob-mission-bg.jpg);
+        background-image: url(../assets/images/assets/mob-mission-bg.jpg);
         background-size: cover
     }
 }
@@ -10536,7 +10536,7 @@ footer .site-header__logo-link.site-header__logo-link img {
     right: 0;
     width: 100%;
     height: 4px;
-    background: url(/assets/images/assets/mix-divider-mobile.jpg)
+    background: url(../assets/images/assets/mix-divider-mobile.jpg)
 }
 
 @media (min-width: 768px) {
@@ -10545,7 +10545,7 @@ footer .site-header__logo-link.site-header__logo-link img {
         right: -40px;
         width: 4px;
         height: 100%;
-        background: url(/assets/images/assets/menu-divider.jpg)
+        background: url(../assets/images/assets/menu-divider.jpg)
     }
 }
 
@@ -11428,11 +11428,11 @@ footer .site-header__logo-link.site-header__logo-link img {
 }
 
 .c-page-header-bg {
-    background: url(/assets/images/assets/wave.jpg)
+    background: url(../assets/images/assets/wave.jpg)
 }
 
 .prlx-bg--repeat {
-    background-image: url(/assets/images/assets/wave.jpg);
+    background-image: url(../assets/images/assets/wave.jpg);
     background-repeat: repeat;
     background-size: auto;
     background-color: #ddf5ff
@@ -11529,7 +11529,7 @@ footer .site-header__logo-link.site-header__logo-link img {
 
 .c-popular-mixes__header {
     position: relative;
-    background: url(/assets/images/assets/popular-mixes-title-bg.jpg);
+    background: url(../assets/images/assets/popular-mixes-title-bg.jpg);
     background-size: cover;
     width: 100%;
     padding: 30px 0;
@@ -11780,7 +11780,7 @@ footer .site-header__logo-link.site-header__logo-link img {
 
 .product__related {
     text-align: center;
-    background: url(/assets/images/assets/wave-gray.jpg);
+    background: url(../assets/images/assets/wave-gray.jpg);
     width: 100%;
     padding: 60px 0 40px
 }
@@ -11788,7 +11788,7 @@ footer .site-header__logo-link.site-header__logo-link img {
 .product__related .section-header__title {
     font-size: 36px;
     margin-bottom: 1em;
-    background: url(/../images/assets/wave-gray.jpg);
+    background: url(../assets/images/assets/wave-gray.jpg);
     background-size: 0 0;
     position: relative;
     display: inline-block;
@@ -12044,7 +12044,7 @@ footer .site-header__logo-link.site-header__logo-link img {
 .c-section-divider {
     height: 81px;
     width: 100%;
-    background: url(/../images/assets/wave-gray.jpg);
+    background: url(/../assets/images/assets/wave-gray.jpg);
     background-repeat: repeat;
     border-top: 1px solid #e6e6e6;
     border-bottom: 1px solid #e6e6e6;
@@ -12297,7 +12297,7 @@ footer .site-header__logo-link.site-header__logo-link img {
     bottom: 0;
     width: 100%;
     padding: 1.07143em 1.07143em 3.57143em;
-    background: url(/assets/images/assets/slider-content-bg.png) center no-repeat;
+    background: url(../assets/images/assets/slider-content-bg.png) center no-repeat;
     background-size: cover;
     border: 1px solid #fff;
     z-index: 1
@@ -12581,7 +12581,7 @@ footer .site-header__logo-link.site-header__logo-link img {
     height: 668px;
     position: absolute;
     bottom: 0;
-    background: url(/assets/images/assets/lily.png) bottom left no-repeat;
+    background: url(../assets/images/assets/lily.png) bottom left no-repeat;
     background-size: contain
 }
 
@@ -12728,7 +12728,7 @@ footer .site-header__logo-link.site-header__logo-link img {
     content: '';
     display: block;
     position: absolute;
-    background-image: url(/assets/images/assets/card-edge.png);
+    background-image: url(../assets/images/assets/card-edge.png);
     background-repeat: no-repeat;
     width: 58px;
     height: 225px;
