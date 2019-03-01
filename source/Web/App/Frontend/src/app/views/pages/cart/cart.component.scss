@@ -1,0 +1,77 @@
+.c-product-note .c-product-note__text-area::-webkit-input-placeholder {
+  color: #999 !important
+}
+
+.c-product-note .c-product-note__text-area:-ms-input-placeholder {
+  color: #999 !important
+}
+
+.c-product-note .c-product-note__text-area::-moz-placeholder {
+  color: #999 !important
+}
+
+.validation-error {
+  border: 2px solid red;
+}
+
+.block-element {
+  color: red;
+  display: block;
+}
+
+.c-btn {
+  vertical-align: top;
+}
+
+.c-btn--checkout {
+  float: right;
+}
+
+
+@media (max-width: 528px) {
+  .c-btn--checkout {
+    margin-top: 0px !important;
+    margin-bottom: 16px !important;
+  }
+
+  .cart_bottom {
+    margin-top: 60px;
+  }
+}
+
+.cart__subtotal-holder {
+  margin-bottom: 25px;
+}
+
+.sms_optin {
+  padding-top: 20px;
+  margin: 20px 0;
+  clear: both;
+  text-align: right;
+  padding-left: 8%;
+}
+
+.sms_optin label {
+  font-size: 12px;
+}
+
+#rrSmsOptInBox {
+  height: auto;
+}
+
+#rrSmsOptInBox + label {
+  position: relative;
+  top: -3px;
+}
+
+@media screen and (min-width: 480px) {
+  label.fineprint {
+    /*       padding-left: 35vw; */
+    width: 50%;
+    margin-left: auto;
+  }
+
+  #rrSmsOptInBox + label {
+    position: initial;
+  }
+}
