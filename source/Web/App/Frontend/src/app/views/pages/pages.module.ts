@@ -7,13 +7,14 @@ import { HouseSpecialsComponent } from './house-specials/house-specials.componen
 import { BoardroomComponent } from './boardroom/boardroom.component';
 import { CartComponent } from './cart/cart.component';
 import { ContactComponent } from './contact/contact.component';
+import { ProfileComponent } from './profile/profile.component';
 
 @NgModule({
     imports: [
         CommonModule,
         PagesRoutingModule
     ],
-    declarations: [DesignGiftComponent, HouseSpecialsComponent, BoardroomComponent, CartComponent, ContactComponent]
+    declarations: [DesignGiftComponent, HouseSpecialsComponent, BoardroomComponent, CartComponent, ContactComponent, ProfileComponent]
 })
 export class PagesModule {
 }

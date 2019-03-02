@@ -5,6 +5,7 @@ import { BoardroomComponent } from "./boardroom/boardroom.component";
 import { CartComponent } from "./cart/cart.component";
 import { HouseSpecialsComponent } from "./house-specials/house-specials.component";
 import { DesignGiftComponent } from "./design-gift/design-gift.component";
+import { ProfileComponent } from "./profile/profile.component";
 
 const routes: Routes = [
     {path: "", redirectTo: "/contact", pathMatch: "full"},
@@ -13,6 +14,7 @@ const routes: Routes = [
     {path: "cart", component: CartComponent},
     {path: "house-specials", component: HouseSpecialsComponent},
     {path: "mixology-bar", component: DesignGiftComponent},
+    {path: "account", component: ProfileComponent},
 ];
 
 @NgModule({
