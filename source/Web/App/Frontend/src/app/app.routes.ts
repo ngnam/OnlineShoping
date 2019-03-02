@@ -14,6 +14,7 @@ export const routes: Routes = [
             { path: "about", loadChildren: "./views/about/about.module#AboutModule" },
             { path: "faq", loadChildren: "./views/faq/faq.module#FaqModule" },
             { path: "cart", loadChildren: "./views/cart/cart.module#CartModule" },
+            { path: "page", loadChildren: "./views/pages/pages.module#PagesModule" },
             // end new feature
         ],
         component: LayoutComponent,

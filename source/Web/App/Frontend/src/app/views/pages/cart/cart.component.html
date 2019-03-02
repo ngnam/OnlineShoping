@@ -1,0 +1,137 @@
+<div class="header__custom display-table c-page-header-bg">
+    <div class="display-table-cell">
+        <div class="wrapper wrapper--margins">
+            <h1 class="c-page-title" itemprop="name"> Shopping cart </h1>
+        </div>
+    </div>
+    <span class=""></span>
+</div>
+
+<div style="color:#f3603f; font-size:2em; padding:25px 0; text-align:center">Scroll Down To Checkout</div>
+<div class="wrapper wrapper--margins wrapper--mini" style="padding-top:0">
+    <form id="cart-form" action="/cart" method="post" novalidate="" class="cart table-wrap">
+        <input type="hidden" name="note" required="" id="delivery">
+        <input type="hidden" name="attributes[Delivery Date]" required="" value="" id="delivery2">
+        <div data-product-id="39199969615">
+            <div class="cart-row cart-item clearfix" data-id="39199969615:df2d9239c2fa188ffdc0986e4eb0e5ab">
+                <div class="cart-row__block">
+                    <div class="content">
+                        <div>
+                            <div>
+                                <h2 class="h3 cart-item__title"><a href="/products/mamma-bear?variant=39199969615">Mamma
+                                    Bear</a></h2>
+                                <div class="cart-item__property">
+                                    BOX_ID: jspx34fl
+                                </div>
+
+                                <div>
+                                    <span class="cart-item__line-price price">$59.99</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="cart-row__block">
+                </div>
+
+                <div class="cart-row__block">
+                    <label for="updates_39199969615:df2d9239c2fa188ffdc0986e4eb0e5ab"
+                           class="fallback-text">Quantity</label>
+
+                    <div class="c-quantity c-frame has-shadow">
+                        <input class="count qty-remove-defaults" type="text"
+                               name="updates[]"
+                               id="updates_39199969615:df2d9239c2fa188ffdc0986e4eb0e5ab"
+                               value="1" min="0"
+                               data-id="39199969615:df2d9239c2fa188ffdc0986e4eb0e5ab">
+                    </div>
+
+                    <div class="c-remove-badge__cart-outter has-shadow remove js-remove-from-cart"
+                         data-id="39199969615" data-line-item-remove="/cart/change?line=1&amp;quantity=0">
+                        <div class="c-remove-badge__cart-inner"></div>
+                    </div>
+                </div>
+
+            </div>
+
+
+        </div>
+
+        <div class="cart_bottom grid">
+
+            <div class="grid__item large--two-thirds"
+                 style="border-bottom: 1px solid #e9e9e9;margin-bottom:60px;padding-bottom:40px">
+                <div class="c-product-note">
+                        <textarea id="box-notes-form" name="attributes[customer-note]" class="c-product-note__text-area"
+                                  style="height:175px; margin-bottom:0; " maxlength="140"
+                                  placeholder="Feeling witty? Personalize your order with a beautiful message here - 140 character limit"></textarea>
+
+                    <div class="notes-character-count">
+                        <span id="notes-remaining-characters">140</span> / 140 characters remaining
+                    </div>
+                </div>
+            </div>
+
+            <div class="grid__item large--one-third u-text-right">
+                <div>
+                    <label class="c-datepicker-label" for="date">Pick A Delivery Date For This Order:</label>
+                    <p style="color:#f3603f; font-weight:bold; font-size:1.3em; margin-bottom:0">Free One-day
+                        Delivery</p>
+                    <p>Add an additional $9.99 for <br> Saturday Deliveries per box.</p>
+                    <p style="font-weight:bold; font-size:1.0em; margin-bottom:0">We Do Not Deliver on Sunday &amp;
+                        Monday</p>
+                    <p style="font-size:.90em; margin-bottom:0">We Do Not Deliver To A PO BOX</p>
+                    <input id="date-" placeholder="mm/dd/yyyy" data-box-id=""
+                           class="datepicker c-datepicker validation-error hasDatepicker" type="text"
+                           name="customer[note][Delivery Date]" autocomplete="off">
+                    <div class="c-shipping-message clearfix">
+                        <div class="c-shipping-message__inner"></div>
+                    </div>
+                    <span class="validation-label block-element" style="display: none;">You must pick a date</span>
+                    <span class="validation-label block-element" style="display: none;" data-vd-mustbefuture="">Please select a valid date</span>
+                </div>
+            </div>
+
+            <div class="grid__item large--one-whole text-right">
+                <p class="cart__subtotal-holder">
+                    <span class="cart__subtotal-title">Subtotal</span>
+                    <span class="h3 cart__subtotal">$59.99</span>
+                    <span class="cart__subtotal-shipping">Shipping, taxes, and discounts calculated at checkout.</span>
+                </p>
+                <div class="c-btn c-btn--gold c-btn--checkout has-shadow"
+                     style="margin: 0;background-color: #f3603f">
+                    <div class="c-btn__inner c-btn__inner--contact" style="padding: 0px 18px;">
+                        <input name="checkout"
+                               class="blocked c-contact__submit c-btn__inner-text u-text-playfair-italic"
+                               id="checkout" style="color: #fff" type="submit" value="Checkout">
+                    </div>
+                </div>
+
+                <a id="clear-cart" class="c-btn c-btn--gold c-btn--clear has-shadow">
+                    <div class="c-btn__inner c-btn__inner__slim">
+                        <div class="c-btn__inner-text u-text-playfair-italic">Clear</div>
+                    </div>
+                </a>
+            </div>
+
+            <div class="sms_optin">
+                <input id="rrSmsOptInBox" type="checkbox" name="attributes[SMS Opt-in]" value="Yes"
+                       onclick="smsOptInChanged()"> <label>Receive support and offers via text message*</label>
+                <label class="checkbox__label fineprint" for="checkout_accept_sms"
+                       style="line-height: 13px; font-size: 10px;">*By checking this box I consent to receive
+                    automated marketing by text message from Bouquet Bar through an automatic telephone dialing
+                    system at the number provided. Consent is not a condition to purchase. View <a
+                            href="/pages/privacy" target="_blank">privacy policy</a>.</label>
+            </div>
+
+            <div class="grid__item large--one-whole text-center"
+                 style="margin-top:40px; color:red; font-weight:bold; font-size:1.3em;">
+                A FedEx Express National Service Disruption is in effect. <a
+                    href="http://www.fedex.com/us/servicealerts/" target="_blank"
+                    style="color:#15c; font-weight:600; text-decoration:underline">Learn More</a>
+            </div>
+        </div>
+    </form>
+
+</div>
